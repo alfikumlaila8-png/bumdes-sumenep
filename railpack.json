@@ -1,15 +1,1 @@
-{
-  "$schema": "https://schema.railpack.com",
-  "packages": {
-    "php": "8.3"
-  },
-"buildAptPackages": [
-    "bison",
-    "re2c",
-    "libpng-dev",
-    "libjpeg-dev",
-    "libfreetype6-dev",
-    "libwebp-dev",
-    "libxpm-dev"
-  ]
-}
+
