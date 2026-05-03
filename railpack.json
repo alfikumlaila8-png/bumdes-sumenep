@@ -3,6 +3,9 @@
   "packages": {
     "php": "8.3"
   },
+  "phpExtensions": [
+    "gd"
+  ],
   "buildAptPackages": [
     "libpng-dev",
     "libjpeg-dev",
