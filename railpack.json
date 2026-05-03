@@ -3,9 +3,13 @@
   "packages": {
     "php": "8.3"
   },
-  "buildAptPackages": [
+"buildAptPackages": [
+    "bison",
+    "re2c",
     "libpng-dev",
     "libjpeg-dev",
-    "libfreetype6-dev"
+    "libfreetype6-dev",
+    "libwebp-dev",
+    "libxpm-dev"
   ]
 }
